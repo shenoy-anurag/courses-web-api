@@ -15,3 +15,7 @@ In order to run this Django App, you will need to do the following:
 6. Open the link provided in the terminal or go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 You can now Explore the APIs from the API Root and play around by performing CRUD operations.
+
+SuperUser Credentials:   
+username: admin   
+password: admin   
